@@ -1,5 +1,6 @@
 # mergeCSVtoExcel
-Merging CSV files and convert to an EXCEL file
+Merging CSV files and convert to an EXCEL file.  
+Using python
 
 ## Flow
 
