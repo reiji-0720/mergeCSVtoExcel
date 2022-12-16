@@ -1,7 +1,7 @@
 from libs import foundCsv
 
 # 作成するエクセルのファイル名
-excel_filename = './excel_test.xlsx'
+excel_filename = './test.xlsx'
 
 # csvデータがあるところまでのPATH
 Path = './sampledata/'
