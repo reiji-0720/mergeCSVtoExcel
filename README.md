@@ -15,7 +15,5 @@ EXCEL上でCSVのファイル名のシートが作成されそれに対応した
 CSVのテーブル情報がそのまま引き継がれます 
 
 
-
-![image](https://user-images.githubusercontent.com/55520463/208053773-a80c9ae8-0dca-4644-98b1-13cb64065609.png)
-
+![image](https://user-images.githubusercontent.com/55520463/208053948-520ecf20-7492-4bf9-885c-c40adf61f1c5.png)
 
