@@ -16,7 +16,6 @@ CSVのテーブル情報がそのまま引き継がれます
 
 
 
+![image](https://user-images.githubusercontent.com/55520463/208053773-a80c9ae8-0dca-4644-98b1-13cb64065609.png)
 
-
-image.png
 
